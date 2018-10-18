@@ -1,12 +1,5 @@
 <?php
 /**
- * add by zhangqingqing@gametrees.com 2017 04.05  QQ:4934347
- * MongoDB类
- *
- */
-
-
-/**
  *  insert, update, delete operations.
  * For example: 用法介绍
  *
